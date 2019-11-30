@@ -1,0 +1,61 @@
+{
+  "store_name": "Sainsburys",
+  "shelves": [
+    {
+      "id": 10,
+      "cat": "flowers",
+      "rows": [
+        "flowers",
+        "flowers",
+        "flowers"
+      ]
+    },
+    {
+      "id": 20,
+      "cat": "packed veg",
+      "rows": [
+        "large salads",
+        "packed greens",
+        "medium salads",
+        "salad bowls",
+        "cold sides",
+        "packed salads"
+      ]
+    },
+    {
+      "id": 21,
+      "cat": "packed fruit",
+      "rows": [
+        "packed grapes",
+        "packed berries",
+        "packed fruit salads",
+        "packed fruit salads",
+        "salad dressings"
+      ]
+    },
+    {
+      "id": 30,
+      "cat": "bottled drinks",
+      "rows": [
+        "water",
+        "water",
+        "water",
+        "smoothies",
+        "fruit juice",
+        "fruit juice"
+      ]
+    },
+    {
+      "id": 40,
+      "cat": "canned drinks",
+      "rows": [
+        "energy drinks",
+        "smoothies",
+        "canned water",
+        "soft drinks",
+        "soft drinks",
+        "soft drinks"
+      ]
+    }
+  ]
+}
