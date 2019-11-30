@@ -35,7 +35,7 @@
     },
     {
       "id": 30,
-      "cat": "bottled drinks",
+      "cat": "soft drinks",
       "rows": [
         "water",
         "water",
@@ -46,15 +46,416 @@
       ]
     },
     {
-      "id": 40,
-      "cat": "canned drinks",
+      "id": 31,
+      "cat": "fizzy drinks",
       "rows": [
-        "energy drinks",
+        "fizzy drinks",
         "smoothies",
         "canned water",
-        "soft drinks",
-        "soft drinks",
-        "soft drinks"
+        "fizzy drinks",
+        "fizzy drinks",
+        "fizzy drinks"
+      ]
+    },
+    {
+      "id": 32,
+      "cat": "energy drinks",
+      "rows": [
+        "energy drinks",
+        "milk drinks",
+        "cold coffee",
+        "cold coffee",
+        "energy drinks",
+        "energy drinks"
+      ]
+    },
+    {
+      "id": 40,
+      "cat": "fizzy drinks",
+      "rows": [
+        "water",
+        "fizzy drinks",
+        "fizzy drinks",
+        "fizzy drinks",
+        "orange juice",
+        "smoothies"
+      ]
+    },
+    {
+      "id": 50,
+      "cat": "meal deal mains",
+      "rows": [
+        "pasta salads",
+        "salads",
+        "sandwiches",
+        "sandwiches",
+        "sandwiches",
+        "sandwiches",
+        "wraps"
+      ]
+    },
+    {
+      "id": 60,
+      "cat": "deli's",
+      "rows": [
+        "sushi",
+        "fruit pieces",
+        "sandwiches",
+        "sandwiches",
+        "sandwiches",
+        "wraps",
+        "wraps"
+      ]
+    },
+    {
+      "id": 70,
+      "cat": "salads",
+      "rows": [
+        "shrimp salads",
+        "pasta salads",
+        "pasta salads",
+        "sushi",
+        "luxury salads",
+        "luxury salads",
+        "smoothies"
+      ]
+    },
+    {
+      "id": 71,
+      "cat": "ready meals",
+      "rows": [
+        "chicken nuggets",
+        "burgers",
+        "bites",
+        "bites",
+        "cold sides",
+        "deli meals",
+        "drinking yoghurt"
+      ]
+    },
+    {
+      "id": 80,
+      "cat": "gluten free dairy free",
+      "rows": [
+        "gluten free pasta",
+        "gluten free biscuits",
+        "gluten free biscuits",
+        "gluten free energy bars",
+        "vegan sweets",
+        "gluten free crisps",
+        "gluten free crisps"
+      ]
+    },
+    {
+      "id": 90,
+      "cat": "cold sides",
+      "rows": [
+        "quiche",
+        "meatballs",
+        "cold snacks",
+        "hummuos",
+        "dips",
+        "mixed veg salads",
+        "olives"
+      ]
+    },
+    {
+      "id": 91,
+      "cat": "fresh pizza and fresh soups",
+      "rows": [
+        "pizza",
+        "pizza",
+        "tortellini",
+        "soups",
+        "soups",
+        "soups"
+      ]
+    },
+    {
+      "id": 92,
+      "cat": "ready meals",
+      "rows": [
+        "chinese meals",
+        "indian meals",
+        "ready meals",
+        "italian meals",
+        "ready meals"
+      ]
+    },
+    {
+      "id": 100,
+      "cat": "butter and cheese",
+      "rows": [
+        "butter",
+        "butter and cheddar",
+        "grated cheese",
+        "soft cheese",
+        "cheese",
+        "cheese"
+      ]
+    },
+    {
+      "id": 110,
+      "cat": "juice",
+      "rows": [
+        "orange juice",
+        "nectar",
+        "exotic juices",
+        "smoothies",
+        "smoothies"
+      ]
+    },
+    {
+      "id": 120,
+      "cat": "milk",
+      "rows": [
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk drinks"
+        ]
+      },
+    {
+      "id": 130,
+      "cat": "cooked meat",
+      "rows": [
+        "bacon",
+        "salami",
+        "cooked chicken breast",
+        "cooked chicken breast",
+        "cooked chicken breast"
+      ]
+    },
+    {
+      "id": 140,
+      "cat": "raw meat",
+      "rows": [
+        "chicken tighs",
+        "chicken breast",
+        "beef",
+        "pork",
+        "sausages",
+        "bacon"
+      ]
+    },
+    {
+      "id": 150,
+      "cat": "raw fish",
+      "rows": [
+        "salmon",
+        "tuna",
+        "raw fish",
+        "raw fish",
+        "raw fish"
+      ]
+    },
+    {
+      "id": 160,
+      "cat": "yogurt",
+      "rows": [
+        "kefir",
+        "yogurt",
+        "yogurt",
+        "yogurt",
+        "yogurt"
+      ]
+    },
+    {
+      "id": 170,
+      "cat": "beer",
+      "rows": [
+        "beer",
+        "beer",
+        "ale",
+        "ale",
+        "beer"
+      ]
+    },
+    {
+      "id": 180,
+      "cat": "frozen food",
+      "rows": [
+        "frozen pizza",
+        "frozen pizza",
+        "frozen fish",
+        "frozen chicken",
+        "frozen turkey"
+      ]
+    },
+    {
+      "id": 190,
+      "cat": "wines and prosecco",
+      "rows": [
+        "wine",
+        "wine",
+        "wine",
+        "prosecco",
+        "prosecco"
+      ]
+    },
+    {
+      "id": 200,
+      "cat": "spirits",
+      "rows": [
+        "whiskey",
+        "tequilla",
+        "liquor",
+        "gin",
+        "prosecco"
+      ]
+    },
+    {
+      "id": 210,
+      "cat": "fruit",
+      "rows": [
+        "apple",
+        "orange",
+        "plum",
+        "pineaple",
+        "grapes",
+        "tangerines"
+      ]
+    },
+    {
+      "id": 220,
+      "cat": "veg",
+      "rows": [
+        "tomatoes",
+        "leek",
+        "onion",
+        "aubergine",
+        "celery",
+        "broccoli"
+      ]
+    },
+    {
+      "id": 230,
+      "cat": "nuts",
+      "rows": [
+        "nuts",
+        "nuts",
+        "cashew",
+        "peanuts",
+        "almonds"
+      ]
+    },
+    {
+      "id": 240,
+      "cat": "savory",
+      "rows": [
+        "chocolate bars",
+        "fruit pots",
+        "fruit pots",
+        "chocolate bars",
+        "chocolate bars"
+      ]
+    },
+    {
+      "id": 250,
+      "cat": "sweets",
+      "rows": [
+        "chocolate bars",
+        "fruit pots",
+        "fruit pots",
+        "chocolate bars",
+        "chocolate bars"
+      ]
+    },
+    {
+      "id": 260,
+      "cat": "instant soup/ramen",
+      "rows": [
+        "noodles",
+        "ramen",
+        "ramen",
+        "soups"
+      ]
+    },
+    {
+      "id": 270,
+      "cat": "canned food",
+      "rows": [
+        "corned beef",
+        "corned beef",
+        "tuna",
+        "tuna",
+        "canned tomatoes"
+      ]
+    },
+    {
+      "id": 280,
+      "cat": "international spices",
+      "rows": [
+        "garam masala",
+        "curry",
+        "corriander",
+        "kimchee"
+      ]
+    },
+    {
+      "id": 290,
+      "cat": "pasta sauces",
+      "rows": [
+        "tomatoes",
+        "pesto",
+        "cheese",
+        "bechamel",
+        "carbonara"
+      ]
+    },
+    {
+      "id": 300,
+      "cat": "oils",
+      "rows": [
+        "olive oil",
+        "sunflower oil",
+        "almond oil",
+        "peanut oil",
+        "coconut oil"
+      ]
+    },
+    {
+      "id": 310,
+      "cat": "condiments",
+      "rows": [
+        "pepper",
+        "salt",
+        "vinegar",
+        "chilli",
+        "soy sauce"
+      ]
+    },
+    {
+      "id": 320,
+      "cat": "oils (more)",
+      "rows": [
+        "olive",
+        "coconut",
+        "..."
+      ]
+    },
+    {
+      "id": 330,
+      "cat": "pasta",
+      "rows": [
+        "spaghetti",
+        "farfale",
+        "fussili",
+        "penne",
+        "linguini",
+        "tagliatele"
+      ]
+    },
+    {
+      "id": 340,
+      "cat": "rice",
+      "rows": [
+        "brown",
+        "basmatti",
+        "white",
+        "long grain",
+        "sticky"
       ]
     }
   ]
