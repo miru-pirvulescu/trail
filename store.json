@@ -458,6 +458,437 @@
         "long grain",
         "sticky"
       ]
+    },
+    {
+      "id": 350,
+      "cat": "cakes",
+      "rows": [
+        "mini rolls",
+        "apple pies",
+        "almond slices",
+        "cake slices",
+        "whole cakes",
+        "birthday cakes",
+        "festive cakes"
+      ]
+    },
+    {
+      "id": 360,
+      "cat": "bread",
+      "rows": [
+        "wraps",
+        "white bread",
+        "whole wheat bread",
+        "brown bread",
+        "other bread",
+        "waffles",
+        "pies"
+      ]
+    },
+    {
+      "id": 370,
+      "cat": "freshly baked bread",
+      "rows": [
+        "muffins",
+        "fresh bread",
+        "fresh baguettes",
+        "fresh baps",
+        "pizza swirls",
+        "fresh croissants"
+      ]
+    },
+    {
+      "id": 371,
+      "cat": "freshly baked sweets",
+      "rows": [
+        "brownies",
+        "scones",
+        "donuts",
+        "cookies",
+        "apple slices",
+        "maple danish"
+      ]
+    },
+    {
+      "id": 380,
+      "cat": "coffee machine",
+      "rows": [
+        "fresh coffee"
+      ]
+    },
+    {
+      "id": 390,
+      "cat": "holiday goodies",
+      "rows": [
+        "brownies",
+        "scones",
+        "donuts",
+        "cookies",
+        "apple slices",
+        "maple danish"
+      ]
+    },
+    {
+      "id": 400,
+      "cat": "handy things",
+      "rows": [
+        "light tights",
+        "light socks",
+        "scissors",
+        "sewing kits",
+        "safety pins"
+      ]
+    },
+    {
+      "id": 410,
+      "cat": "newspapers and magazines",
+      "rows": [
+        "newspapers",
+        "magazines"
+      ]
+    },
+    {
+      "id": 411,
+      "cat": "birthday",
+      "rows": [
+        "cards",
+        "gift bags"
+      ]
+    },
+    {
+      "id": 420,
+      "cat": "stationery",
+      "rows": [
+        "big notebooks",
+        "small notebooks",
+        "pencil boxes",
+        "staples",
+        "pencils",
+        "notepads",
+        "pens"
+      ]
+    },
+    {
+      "id": 430,
+      "cat": "coffee",
+      "rows": [
+        "coffee granules",
+        "ground coffee beans",
+        "coffee beans"
+      ]
+    },
+    {
+      "id": 431,
+      "cat": "tea",
+      "rows": [
+        "PG",
+        "yorkshire tea",
+        "twinings",
+        "taste the difference",
+        "pukka",
+        "ice tea"
+      ]
+    },
+    {
+      "id": 440,
+      "cat": "biscuits and crackers",
+      "rows": [
+        "sweet biscuits",
+        "granola bars",
+        "digestives",
+        "corn thins",
+        "crackers",
+        "whole wheat crackers",
+        "saltines"
+      ]
+    },
+    {
+      "id": 450,
+      "cat": "sweet spreads",
+      "rows": [
+        "fruit cans",
+        "fruit jam",
+        "nutella",
+        "peanut butter",
+        "marmite",
+        "honey"
+      ]
+    },
+    {
+      "id": 460,
+      "cat": "baking ingredients",
+      "rows": [
+        "baking powder",
+        "sugar",
+        "flour",
+        "eggs",
+        "seeds",
+        "almond flakes",
+        "flavours"
+      ]
+    },
+    {
+      "id": 470,
+      "cat": "cereals",
+      "rows": [
+        "corn flakes",
+        "coco pops",
+        "weetabix",
+        "cheerios",
+        "shreddies"
+      ]
+    },
+    {
+      "id": 480,
+      "cat": "cereals and oats",
+      "rows": [
+        "corn flakes",
+        "porridge oats",
+        "granola",
+        "weetabix shake",
+        "porridge oats",
+        "porridge oats"
+      ]
+    },
+    {
+      "id": 490,
+      "cat": "snacks",
+      "rows": [
+        "toffee popcorn",
+        "chocolate bags",
+        "chocolate bags",
+        "chocolate bags",
+        "chocolate boxes",
+        "chocolate boxes"
+      ]
+    },
+    {
+      "id": 500,
+      "cat": "pet food",
+      "rows": [
+        "dog food",
+        "meat pate",
+        "cat food",
+        "wet cat food",
+        "food bag"
+      ]
+    },
+    {
+      "id": 510,
+      "cat": "laundry products",
+      "rows": [
+        "aluminium foil",
+        "baking paper",
+        "powder detergent",
+        "deergent pods",
+        "detergent pods",
+        "fabric conditioner",
+        "vanish"
+      ]
+    },
+    {
+      "id": 520,
+      "cat": "cleaning products",
+      "rows": [
+        "bleach",
+        "window solution",
+        "all-surface sanitiser",
+        "dish detergent",
+        "wet wipes"
+      ]
+    },
+    {
+      "id": 530,
+      "cat": "toilet paper",
+      "rows": [
+        "24 paper rolls",
+        "16 paper rolls",
+        "8 paper rolls",
+        "4 paper rolls",
+        "tissue box"
+      ]
+    },
+    {
+      "id": 531,
+      "cat": "baby",
+      "rows": [
+        "baby wipes",
+        "diapers",
+        "baby oil",
+        "baby food powder",
+        "baby food bags",
+        "baby food bags",
+        "baby wipes"
+      ]
+    },
+    {
+      "id": 532,
+      "cat": "hygene",
+      "rows": [
+        "shampoo",
+        "shower gel",
+        "face cream",
+        "sunscreen",
+        "wet wipes",
+        "deodorant",
+        "toothpaste",
+        "toothbrushes"
+      ]
+    },
+    {
+      "id": 540,
+      "cat": "pharmacy",
+      "rows": [
+        "light pads",
+        "pads",
+        "tampons",
+        "condoms",
+        "vitamins",
+        "medicine"
+      ]
+    },
+    {
+      "id": 550,
+      "cat": "home supplies",
+      "rows": [
+        "paper trays",
+        "table cloth",
+        "coffee cups",
+        "towels",
+        "lightbulbs",
+        "lightbulbs"
+      ]
+    },
+    {
+      "id": 560,
+      "cat": "gum",
+      "rows": [
+        "saver pack gum",
+        "small pack gum",
+        "container gum"
+      ]
+    },
+    {
+      "id": 570,
+      "cat": "sweets",
+      "rows": [
+        "toffee popcorn",
+        "chocolate bags",
+        "chocolate bags",
+        "chocolate bags",
+        "chocolate boxes",
+        "chocolate boxes"
+      ]
+    },
+    {
+      "id": 571,
+      "cat": "sweets",
+      "rows": [
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate boxes",
+        "chocolate boxes"
+      ]
+    },
+    {
+      "id": 580,
+      "cat": "big bottles",
+      "rows": [
+        "sports drinks",
+        "energy drinks",
+        "mixers",
+        "fruit juice",
+        "small fruit juce",
+        "soft drink cans"
+      ]
+    },
+    {
+      "id": 590,
+      "cat": "water",
+      "rows": [
+        "water",
+        "water",
+        "tonic water",
+        "flavoured water",
+        "small water bottle"
+      ]
+    },
+    {
+      "id": 600,
+      "cat": "chocolate bars",
+      "rows": [
+        "snack bags",
+        "chocolate bars",
+        "chocolate bars",
+        "chocolate bars"
+      ]
+    },
+    {
+      "id": 610,
+      "cat": "protein bars",
+      "rows": [
+        "snack bags",
+        "protein bars",
+        "protein nut bars",
+        "protein nut bars"
+      ]
+    },
+    {
+      "id": 620,
+      "cat": "nuts",
+      "rows": [
+        "snack bags",
+        "nut bars",
+        "nut bars",
+        "nut bars"
+      ]
+    },
+    {
+      "id": 630,
+      "cat": "crisps",
+      "rows": [
+        "nachos party bags",
+        "baked crisps",
+        "pringles",
+        "dips",
+        "nuts"
+      ]
+    },
+    {
+      "id": 640,
+      "cat": "crisps",
+      "rows": [
+        "crisp party bags",
+        "crisp party bags",
+        "crisp party bags",
+        "mini leicesters",
+        "sunbites party bags"
+      ]
+    },
+    {
+      "id": 650,
+      "cat": "drinks",
+      "rows": [
+        "sparkling water",
+        "beer packs",
+        "beer cans"
+      ]
+    },
+    {
+      "id": 660,
+      "cat": "crisps",
+      "rows": [
+        "crisp party bags",
+        "loops",
+        "permium crisps",
+        "kettles crisps",
+        "kettles crisps",
+        "crisps"
+      ]
     }
   ]
 }
